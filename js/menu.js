@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	function windowSize(){
-	    if ($(window).width() <= '750'){
+	    if ($(window).width() <= '768'){
 	        $('#toggle-menu').show();
 	        $('ul.nav-list').css("display", "none");
 	    } else {

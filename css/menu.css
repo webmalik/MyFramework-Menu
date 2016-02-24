@@ -72,7 +72,7 @@ ul.nav-list li a.active {
     background-color: #8A8A8A;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 768px) {
 	.collapse-menu {
 		display: block;
 	}
